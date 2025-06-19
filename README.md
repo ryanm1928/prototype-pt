@@ -1,2 +1,2 @@
-username : gudang,produksi,finishing
+username : gudang,produksi,finishing <br>
 password : gudang,produksi,finishing
